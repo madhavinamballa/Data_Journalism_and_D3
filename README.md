@@ -49,7 +49,7 @@ While the ticks on the axes allow us to infer approximate values for each circle
 ![Image 1-19-20 at 11 37 PM](https://user-images.githubusercontent.com/36050687/72707965-8b438a00-3b16-11ea-9d86-5f4f4bd27c68.jpg)
 
 
-
+![Image 1-19-20 at 11 37 PM](https://user-images.githubusercontent.com/36050687/72708067-c47bfa00-3b16-11ea-8abb-4a4479d6547c.jpg)
 
 
 
