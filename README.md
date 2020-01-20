@@ -25,6 +25,7 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 * Create and situate your axes and labels to the left and bottom of the chart.
 
 * Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser.
+![Image 1-19-20 at 10 40 PM](https://user-images.githubusercontent.com/36050687/72707806-25ef9900-3b16-11ea-9aa2-e8cec97854e9.jpg)
 
 
 
