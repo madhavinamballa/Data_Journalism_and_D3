@@ -12,9 +12,7 @@ The editor wants to run a series of feature stories about the health risks facin
 
 The data set included with the assignment is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml), but you are free to investigate a different data set. The current data set incldes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
-## Your Task
-
-### Level 1: D3 Dabbler
+### Level 1:
 
 create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
@@ -32,11 +30,11 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 ![Image 1-19-20 at 10 41 PM](https://user-images.githubusercontent.com/36050687/72707873-53d4dd80-3b16-11ea-9c31-30dcbc9fc01d.jpg)
 
 
-### Level 2: Impress the Boss (Optional Challenge Assignment)
+### Level 2:
 
 Why make a static graphic when D3 lets you interact with your data?
 
-![7-animated-scatter](Images/7-animated-scatter.gif)
+
 
 #### 1. More Data, More Dynamics
 
@@ -48,9 +46,10 @@ You're going to include more demographics and more risk factors. Place additiona
 
 While the ticks on the axes allow us to infer approximate values for each circle, it's impossible to determine the true value without adding another layer of data. Enter tooltips: developers can implement these in their D3 graphics to reveal a specific element's data when the user hovers their cursor over the element. Add tooltips to your circles and display each tooltip with the data that the user has selected. Use the `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged)—we've already included this plugin in your assignment directory.
 
-![8-tooltip](Images/8-tooltip.gif)
+![Image 1-19-20 at 11 37 PM](https://user-images.githubusercontent.com/36050687/72707965-8b438a00-3b16-11ea-9d86-5f4f4bd27c68.jpg)
 
-* Check out [David Gotz's example](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7) to see how you should implement tooltips with d3-tip.
+
+
 
 
 
